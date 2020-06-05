@@ -1,20 +1,16 @@
   a:link {
       color: white;
   }
-
   a:visited {
       color: purple;
   }
-
   a:hover {
       color: lightcoral;
       outline: 4px dotted white;
   }
-
   a:focus {
       outline: 4px dotted white;
   }
-
   header {
       background-image: url(../images/rentcito.png);
       background-repeat: no-repeat;
@@ -24,7 +20,6 @@
       border-color: mediumpurple;
       margin-left: 988px;
   }
-
   body {
       /*
     background-image: url(../images/paint.jpg);
@@ -33,7 +28,6 @@
     font-style: italic;
     font-family: "Times New Roman", Times, serif;*/
   }
-
   #lessorH {
       color: rebeccapurple;
       margin-left: 500px;
@@ -42,29 +36,23 @@
   #lessorNav {
       margin-left: 475px;
   }
-
   #leessesH {
       color: rebeccapurple;
       margin-left: 325px;
   }
-
   #leessesNav {
       margin-left: 300px;
   }
-
   #mainH {
       color: rebeccapurple;
       margin-left: 100px;
   }
-
   #mainNav {
       margin-left: 075px;
   }
-
   #mainOl li {
       margin-right: 50px
   }
-
   /*
 main {
     background-image: url(../images/opacity%20box.png) ;
