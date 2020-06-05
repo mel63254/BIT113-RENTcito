@@ -55,7 +55,7 @@
   }
 
 main {
-    /*background-image: url(../images/opacity%20box.png) ;*/
+    background-image: url(../images/opacity%20box.png) ;
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position: bottom right;
