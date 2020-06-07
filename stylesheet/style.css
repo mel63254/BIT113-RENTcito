@@ -22,7 +22,7 @@
   }
   body {
       
-    /*background-image: url(../image/rentcito.jpg);*/
+    background-image: center; /*url(../image/rentcito.jpg);*/
     background-size: 2200px 1000px;
     background-position: top left;
     font-style: italic;
