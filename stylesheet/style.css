@@ -1,7 +1,5 @@
   a:link {color:white;}
-
         a:visited{color:      #f26f0f;}
-
         a:hover{color: #f26f0f;
 
         outline: 4px  dotted       #f26f0f;}
@@ -24,7 +22,7 @@ head {
 
 body{
   
-   background: url(image/rentcito.jpg);
+   background: url(../image/rentcito.jpg);
 
     background-image: center;
 
