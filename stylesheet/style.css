@@ -21,13 +21,10 @@ head {
 
     }
 
- 
-
- 
 
 body{
 
-    background-image: url(../images/UPDT%20BCK.jpg);
+    background-image: center;
 
     background-repeat: no-repeat;
 
@@ -51,9 +48,6 @@ body{
 
     }
 
- 
-
- 
 
 h1{color: #f4a261;
 
@@ -86,10 +80,8 @@ nav {margin-top: 150px;
     }
 
  
-
 footer{    margin-top:225px;}
 
- 
 
 h4{text-align:center;
 
