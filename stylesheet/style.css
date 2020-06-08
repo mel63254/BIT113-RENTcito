@@ -1,96 +1,114 @@
-  a:link {
-      color: white;
-  }
-  a:visited {
-      color: purple;
-  }
-  a:hover {
-      color: lightcoral;
-      outline: 4px dotted white;
-  }
-  a:focus {
-      outline: 4px dotted white;
-  }
-  header {
-      
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-position: right;
-      border: outset 7px;
-      border-color: mediumpurple;
-      margin-left: 988px;
-  }
-  body {
-      
-    background-image: center; /*url(../image/rentcito.jpg);*/
-    background-size: 2200px 1000px;
-    background-position: top left;
-    font-style: italic;
-    font-family: "Times New Roman", Times, serif;*/
-  }
-  #lessor H {
-      color: rebeccapurple;
-      margin-left: 500px;
-  }
+  a:link {color:white;}
 
-  #lessor Nav {
-      margin-left: 475px;
-  }
-  #leesses H {
-      color: rebeccapurple;
-      margin-left: 325px;
-  }
-  #leesses Nav {
-      margin-left: 300px;
-  }
-  #mainH {
-      color: rebeccapurple;
-      margin-left: 100px;
-  }
-  #mainNav {
-      margin-left: 075px;
-  }
-  #main ol li {
-      margin-right: 50px
-  }
+        a:visited{color:      #f26f0f;}
 
-main {
-    background-image: url(../images/opacity%20box.png) ;
-    background-size: 400px 300px;
-    background-repeat: no-repeat;
-    background-position: bottom right;
-    margin-top: 70px;
+        a:hover{color: #f26f0f;
+
+        outline: 4px  dotted       #f26f0f;}
+
+        a:focus{outline:4px dotted #f26f0f;}
+
+
+head {
+
+    color: #e76f51;
+
+    font-size: 20pt;
+
+    border-bottom: none;
+
+ 
+
     }
 
-/* div {
-      margin-top: -200px;
-  }*/
+ 
 
-.dropbtn {
-            background:none;
-            color: white;
-            padding: 16px;
-            font-size: 16px;
-            border: none;
-        }
-        .dropdown {
-            position: relative;
-            display: inline-block;
-        }
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color:none;
-            min-width: 160px;
-            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-            z-index: 1;
-        }
-        .dropdown-content a {
-            color: black;
-            padding: 12px 16px;
-            text-decoration: none;
-            display: block;
-        }
-        .dropdown-content a:hover {background-color: #ddd;}
-        .dropdown:hover .dropdown-content {display: block;}
-        .dropdown:hover .dropbtn {background-color:none;}
+ 
+
+body{
+
+    background-image: url(../images/UPDT%20BCK.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-position: top left;
+
+    /*background-size: 1510px  785px;*/
+
+    text-align: center;
+
+    font-stretch: expanded;
+
+    font-style: bold;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+    border-color: #457b9d;
+
+ 
+
+    }
+
+ 
+
+ 
+
+h1{color: #f4a261;
+
+    letter-spacing: 2px;   
+
+    border-color: #457b9d;
+
+    border-bottom: none;}
+
+ 
+
+nav {margin-top: 150px;
+
+    letter-spacing: 2px;
+
+    font-size: 10pt;
+
+    }
+
+ 
+
+  nav ul li {
+
+    text-decoration-style: wavy;
+
+    display: inline;
+
+    padding: 134px;
+
+    }
+
+ 
+
+footer{    margin-top:225px;}
+
+ 
+
+h4{text-align:center;
+
+    color:white;
+
+    font-size:20pt;
+
+    background-color: #457b9d;
+
+    opacity: .8;
+
+    border: outset 3px;
+
+    border-color:white;
+
+    padding:5px;
+
+    margin-left:450px;
+
+    margin-right:450px;
+
+    border-spacing: inherit;}
