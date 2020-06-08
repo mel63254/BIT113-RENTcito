@@ -30,9 +30,9 @@ body{
 
     background-size: cover;
 
-    background-position: top left;
+    /*background-position: top left;*/
 
-    /*background-size: 1510px  785px;*/
+    background-size: 1510px  785px;
 
     text-align: center;
 
